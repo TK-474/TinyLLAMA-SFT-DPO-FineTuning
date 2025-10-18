@@ -19,9 +19,9 @@ The goal was to analyze the effects of different **LoRA (Low-Rank Adaptation)** 
 
 | Name | ID |
 |------|----|
-| Laiba Zubair | 24472 |
-| Saad Lakhani | 24471 |
-| **Talal Khan** | **25253** |
+| **Talal Khan**
+| Laiba Zubair 
+| Saad Lakhani
 
 ---
 
