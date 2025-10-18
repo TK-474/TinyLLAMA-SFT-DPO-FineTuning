@@ -17,8 +17,8 @@ The goal was to analyze the effects of different **LoRA (Low-Rank Adaptation)** 
 
 ## 👥 Group Members
 
-| Name | ID |
-|------|----|
+| Name 
+|-----
 | **Talal Khan**
 | Laiba Zubair 
 | Saad Lakhani
